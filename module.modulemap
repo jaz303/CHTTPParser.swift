@@ -1,4 +1,4 @@
-module CUV [system] {
+module CHTTPParser [system] {
 	header "/usr/local/include/http_parser.h"
 	link "http_parser"
 	export *
